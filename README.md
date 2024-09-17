@@ -1,5 +1,6 @@
 # Instructions
-## 1. Create a google colab account. If your organization does not allow access, use your personal gmail, or create one.
+## 1. Create a google colab account. 
+If your organization does not allow access, use your personal gmail, or create one.
 ## 2. Open [https://colab.research.google.com/](https://colab.research.google.com/)
 You should see something like this:
 
