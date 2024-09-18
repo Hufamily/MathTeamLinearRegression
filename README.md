@@ -1,6 +1,8 @@
 # Instructions
 ## 1. Create a google colab account. 
-If your organization does not allow access, use your personal gmail, or create one.
+You should have access once you create, or have, a google account with access to collab.
+
+If your organization does not allow access, use a personal gmail, or create one.
 ## 2. Open [https://colab.research.google.com/](https://colab.research.google.com/)
 You should see something like this:
 
@@ -25,7 +27,7 @@ Click on ```2024ClubFair.ipynb```
 ![G2C](https://github.com/Hufamily/MathTeamLinearRegression/blob/8a4afc225d26e0579b64c6884d2fc158b084ce7f/images/GtoC.png)
 
 ## 5. Add in the data
-Click on the foler symbol on the left side of the screen. Upload ```signup_data.csv```, either by downloading onto your computer and uploading it to colab, or opening it through a google drive link.
+Click on the folder symbol on the left side of the screen. Upload ```signup_data.csv```, either by downloading onto your computer(remember the location) and uploading it to colab, or uploading it through a google drive link.
 
 ![Files](https://github.com/Hufamily/MathTeamLinearRegression/blob/8a4afc225d26e0579b64c6884d2fc158b084ce7f/images/OpenFiles.png)
 
