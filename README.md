@@ -1,6 +1,6 @@
 # Instructions
 ## 1. Create a google colab account. 
-You should have access once you create, or have, a google account with access to collab.
+You should have access once you create, or have, a google account.
 
 If your organization does not allow access, use a personal gmail, or create one.
 ## 2. Open [https://colab.research.google.com/](https://colab.research.google.com/)
