@@ -34,4 +34,6 @@ Click on the folder symbol on the left side of the screen. Upload ```signup_data
 ## 6. Run the code. 
 Run each cell step by step by clicking on the arrow in the upper left. If you run into any issues, let us know.
 
-For fitting your own function, please edit the last cell, the comments should indicate where you need to edit.
+For fitting your own function, please edit the second to last cell, the comments should indicate where you need to edit.
+
+To find the $R^2$ value, run the last cell, while modifying the number of parameters and function.
