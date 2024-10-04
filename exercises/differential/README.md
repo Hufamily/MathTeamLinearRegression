@@ -1,7 +1,7 @@
 # Breakdown
 If you have already done the previous exercises in ```MathTeamLinearRegression/exercises/fitting/```, you can use these programs as examples of how to use scipy to plot differential equations.
 
-```SimpleHarmonicOscillator.py``` is a good place to start. It plots out the equation, dy/dt = -k*y.
+```SimpleHarmonicOscillator.py``` is a good place to start. It plots out the equation, d^2y/dt^2 = -k*y.
 
 Then you can take a look at some of the other oscillator programs(Essentially the same thing, but with additional terms), or look at ```PredatorPrey``` which plots out the Lotka Voltera equations.
 
